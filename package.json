@@ -16,8 +16,9 @@
     "@types/alpinejs": "^3.13.10",
     "alpinejs": "^3.14.1",
     "animate.css": "^4.1.1",
-    "astro": "^4.13.3",
-    "motion": "^10.18.0"
+    "astro": "^5.13.5",
+    "motion": "^10.18.0",
+    "node": "^22.19.0"
   },
   "devDependencies": {
     "@tailwindcss/aspect-ratio": "^0.4.2",
